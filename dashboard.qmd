@@ -45,7 +45,8 @@ format:
 
 ::: {.card .flow title="Methodology"}
 # Coverage of Meta data
-![](./inputs/represented.jpeg)
+
+![](./inputs/represented.png)
 
 ## Sources:
 ...
