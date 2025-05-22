@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+// colors
+$navbar-bg: #0035a0;
+$navbar-fg: #ffffff;
+$font-size-root: 14px;
+$link-color: #0035a0;
+
+/*-- scss:rules --*/
+.quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
+    color: #ffffff;
+}
+.quarto-title-banner {
+    margin-bottom: 1em;
+    color: #ffffff;
+    background: #0035a0;
+}

@@ -1,0 +1,149 @@
+---
+title: Dynamic Estimates of Displacement in Disaster Regions
+author: ''
+subtitle: Hackathon Group 4
+title-block-banner: '#0035a0'
+output-file: index
+format:
+  dashboard:
+    logo: assets/wsimage.jpg
+    include-in-header:
+      text: <link rel="icon" type="image/x-icon" href="favicon.ico">
+    orientation: columns
+    theme:
+      - assets/IOM.scss
+---
+
+# Movement
+
+### Column {width="65%"}
+
+#### Row 
+
+::: {.card title="Movements"}
+{{< placeholder 1000 1000 format=svg >}}
+:::
+
+
+
+<!-- <iframe src="./outputs/map.html" width="100%" height="100%">
+
+</iframe> -->
+
+
+### Column {width="35%"}
+
+#### Row {.tabset .flow height="30%"}
+
+::: {.card .flow title="Overview"}
+**Published:** 2 July 2024 </br>
+**Last Updated:** 12:00 UTC, 9 July 2024
+
+{{< lipsum 5 >}}
+:::
+
+::: {.card .flow title="Methodology"}
+## Sources:
+The displacement analysis is done using Facebook Popluation Estimates data from Meta's Data for Good initiative. Analysis was conducted by IOM.
+The building damage asssment data is from Microsoft, using imagery from Planet.
+
+## Limitations
+Limitations of the displacement analysis include;
+
+-   Levels and variance in Facebook usage by the affected populations.
+-   Network infrastrctural issues can also impact the findings.
+
+## Contact
+Hurricane Beryl Emergency Coordinator - Jan-Willem WEGDAM [jwegdam@iom.int](mailto:jwegdam@iom.int)
+
+Regional Migration Data Coordinator - Raul Andres SOTO [rsoto@iom.int](mailto:rsoto@iom.int)
+
+For details on this dashboard, contact Brian Mc Donald [bmcdonald\@iom.int](mailto:bmcdonald@iom.int?subject=Beryl)
+:::
+
+#### Row {.tabset .flow}
+
+::: {.card title="Tab 1"}
+## Title 1
+
+{{< lipsum 1 >}}
+
+![image](./assets/image.svg) </br>The population levels for  St. George's has  returned to the pre-crisis baseline as of 4th July.
+
+
+## Title 2
+
+{{< placeholder 400 200 format=svg >}}
+
+{{< lipsum 1 >}}
+
+## Title 
+
+{{< placeholder 400 200 format=svg >}}
+
+{{< lipsum 1 >}}
+
+:::
+
+
+::: {.card title="Tab 2"}
+
+## Tab 1
+
+{{< placeholder 400 200 format=svg >}}
+
+All areas of Savanna-la-mer continue to see poulation estimates far below the pre-crisis baseline.
+
+## Tab 2
+
+{{< placeholder 400 200 format=svg >}}
+
+Urban areas of Old Harbour show population estimates returning to close to pre-crisis levels, while the outskirts of the town, especially to the west, are still seeing a signficant decrease.
+:::
+
+# Vulnerability
+
+### Column {width="65%"}
+
+#### Row 
+
+::: {.card title="Vulnerability"}
+![](./inputs/photo1.jpeg)
+:::
+
+
+### Column {width="35%"}
+
+#### Row {.tabset}
+
+::: {.card title="Tab 1"}
+## Title 1
+
+{{< lipsum 1 >}}
+
+## Title 2
+
+*Remote building damage assessment for other locations will follow.*
+:::
+
+::: {.card title="Tab 2"}
+
+## Source
+This analysis is provided courtesy of Microsoft AI for Good Lab, using imagery from Planet SkySat from 2nd July 2024.
+
+## Attribute details
+
+-   damage_pct_0m – the fraction of the building footprint's area that is classified as damaged by the model
+
+-   damage_pct_10m – total damaged area within a 10m buffer of the building footprint (including the footprint itself) / building footprint's area (this can be \>1.0 but we clip to 1.0)
+
+-   damage_pct_20m – same as above but with a 20m buffer
+
+-   damage – 1 if damage_pct_0m \> 0 else 0
+
+-   unknown_pct– covered by clouds
+
+## Limitations
+This analysis uses optical satellite imagery and likely underestimates building damage as not all building damage can be detected from this visual perspective.
+Cloud cover prevented analysis of 31% of the buildings.
+:::

@@ -1,0 +1,22 @@
+[workspace]
+authors = ["Brian Mc Donald <brian@brianmcdonald.me>"]
+channels = ["conda-forge"]
+name = "base"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.10.*"
+pip = "*"
+conda = "*"
+mamba = ">=1.5.8"
+geopandas = "*"
+hvplot = "*"
+itables = "*"
+lonboard = "*"
+matplotlib = "*"
+polars = "*"
+pydeck = "*"
+scipy = "*"
