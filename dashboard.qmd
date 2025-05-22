@@ -108,8 +108,10 @@ Urban areas of Old Harbour show population estimates returning to close to pre-c
 
 #### Row 
 
-::: {.card title="Vulnerability"}
+::: {.card title="Mirpur Khas"}
 ![](./inputs/photo1.jpeg)
+
+Example of roadside displacement near Mipur Khas, Sindh.
 :::
 
 
@@ -117,14 +119,16 @@ Urban areas of Old Harbour show population estimates returning to close to pre-c
 
 #### Row {.tabset}
 
-::: {.card title="Tab 1"}
+::: {.card title="Priority needs"}
 ## Title 1
+
+![](./inputs/needs.png)
 
 {{< lipsum 1 >}}
 
 ## Title 2
 
-*Remote building damage assessment for other locations will follow.*
+
 :::
 
 ::: {.card title="Tab 2"}
