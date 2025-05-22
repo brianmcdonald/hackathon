@@ -21,7 +21,10 @@ format:
 #### Row 
 
 ::: {.card title="Movements"}
-{{< placeholder 1000 1000 format=svg >}}
+<!-- {{< placeholder 1000 1000 format=svg >}} -->
+<iframe src="./inputs/flowmap.html" width="100%" height="800px%">
+
+</iframe>
 :::
 
 

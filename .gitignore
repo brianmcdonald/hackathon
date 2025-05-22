@@ -4,3 +4,5 @@
 *.egg-info
 
 /.quarto/
+docs/.DS_Store
+.DS_Store
