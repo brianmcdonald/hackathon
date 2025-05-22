@@ -120,7 +120,6 @@ Example of roadside displacement near Mipur Khas, Sindh.
 #### Row {.tabset}
 
 ::: {.card title="Priority needs"}
-## Title 1
 
 ![](./inputs/needs.png)
 
