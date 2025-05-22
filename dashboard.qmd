@@ -37,7 +37,6 @@ format:
 
 :::
 
-
 ### Column {width="35%"}
 
 #### Row {.tabset .flow height="30%"}
@@ -69,7 +68,6 @@ In many of the more rural areas on the outskirts of cities in the North of Pakis
 
 There is limited data availability of Facebook movements toward the south of Pakistan. Further analysis of these areas is recommended.
 
-
 :::
 
 
@@ -90,7 +88,10 @@ In the early days of the flooding events, we observe high levels of migration ou
 ::: {.card title="Mirpur Khas"}
 ![](./inputs/photo1.jpeg)
 
-Example of roadside displacement near Mipur Khas, Sindh. Note the movement of livestock with the displaced population.
+
+*Example of roadside displacement near Mipur Khas, Sindh.* 
+
+*Note the movement of livestock with the displaced population.*
 :::
 
 
@@ -100,7 +101,7 @@ Example of roadside displacement near Mipur Khas, Sindh. Note the movement of li
 
 ::: {.card title="Location"}
 
-![](./inputs/location_map.png)
+![](./inputs/location_map.png){width="60%" align="center"}
 
 :::
 
@@ -116,14 +117,6 @@ Based on DTM's key informant's estimates, the top three priority needs identifie
 Access to safe and sufficient water has emerged as a critical challenge for flood-affected populations in Pakistan’s Mirpur District. According to key informant data, nearly one-third of respondents (29%) reported that water is not available on the market, while 17% cited the long distances to water points as a major barrier. Additional challenges include lack of storage containers (14%), poor water quality - indicated by bad taste (10%), odour (5%), and visible contamination (4%) and safety concerns while fetching water (9%). 
  
 These findings indicate a complex and urgent water crisis, where both availability and accessibility are compromised, putting affected communities at heightened risk of waterborne diseases and further displacement stress. Immediate multisectoral interventions are needed to restore functionality of water points, provide safe drinking water, and ensure equitable access, particularly for women and children who are often most affected by water collection burdens.
-
-:::
-
-::: {.card title="Location"}
-
-![](./inputs/location_map.png)
-
-
 
 :::
 
