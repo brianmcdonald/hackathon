@@ -69,6 +69,7 @@ In many of the more rural areas on the outskirts of cities in the North of Pakis
 
 There is limited data availability of Facebook movements toward the south of Pakistan. Further analysis of these areas is recommended.
 
+
 :::
 
 
@@ -97,20 +98,24 @@ Example of roadside displacement near Mipur Khas, Sindh. Note the movement of li
 
 #### Row {.tabset}
 
+::: {.card title="Location"}
+
+![](./inputs/location_map.png)
+
+:::
+
 ::: {.card title="Priority needs"}
 
 ![](./inputs/needs.png)
 
-{{< lipsum 1 >}}
-
-## Title 2
-
+![](./inputs/needs2.png)
 
 :::
 
-::: {.card title="Other"}
+::: {.card title="Location"}
 
-...
+![](./inputs/location_map.png)
+
 
 
 :::
