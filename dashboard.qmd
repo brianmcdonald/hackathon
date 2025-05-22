@@ -22,7 +22,7 @@ format:
 
 ::: {.card .flow title="Deprivation"}
 
-{{< placeholder 1000 1000 format=svg >}}
+![](./inputs/deprivation.jpeg)
 
 :::
 
@@ -117,6 +117,8 @@ Based on DTM's key informant's estimates, the top three priority needs identifie
 Access to safe and sufficient water has emerged as a critical challenge for flood-affected populations in Pakistan’s Mirpur District. According to key informant data, nearly one-third of respondents (29%) reported that water is not available on the market, while 17% cited the long distances to water points as a major barrier. Additional challenges include lack of storage containers (14%), poor water quality - indicated by bad taste (10%), odour (5%), and visible contamination (4%) and safety concerns while fetching water (9%). 
  
 These findings indicate a complex and urgent water crisis, where both availability and accessibility are compromised, putting affected communities at heightened risk of waterborne diseases and further displacement stress. Immediate multisectoral interventions are needed to restore functionality of water points, provide safe drinking water, and ensure equitable access, particularly for women and children who are often most affected by water collection burdens.
+
+Food insecurity remains a pressing concern for temporarily displaced persons (TDPs) in Mirpur District, with coping mechanisms revealing both economic vulnerability and insufficient humanitarian coverage. Nearly half (45%) of affected households rely on purchasing food from local markets. Alarmingly, 21% reported resorting to selling assets to meet basic food needs. Only 12% benefit from formal food distribution, and 11% are borrowing to survive, indicating gaps in targeted assistance. The reliance on negative coping strategies such as asset depletion, borrowing, and bartering signals unsustainable strategies that could erode long-term resilience.
 
 :::
 
