@@ -43,7 +43,7 @@ format:
 #### Row {.tabset .flow height="30%"}
 
 
-::: {.card .flow title="Methodology"}
+::: {.card .flow title="Using this dashboard"}
 # Coverage of Meta and DTM assessments
 
 ![](./inputs/represented.png)
