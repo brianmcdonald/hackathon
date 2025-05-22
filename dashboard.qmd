@@ -64,41 +64,19 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 #### Row {.tabset .flow}
 
 ::: {.card title="Deprivation"}
-## Title 1
 
-{{< lipsum 1 >}}
+In many of the more rural areas on the outskirts of cities in the North of Pakistan, we observe high levels of deprivation combined with high levels of displacement - providing an initial indicator of areas in highest severity need
 
-
-
-## Title 2
-
-{{< placeholder 400 200 format=svg >}}
-
-{{< lipsum 1 >}}
-
-## Title 
-
-{{< placeholder 400 200 format=svg >}}
-
-{{< lipsum 1 >}}
+There is limited data availability of Facebook movements toward the south of Pakistan. Further analysis of these areas is recommended.
 
 :::
 
 
 ::: {.card title="Movement between places"}
 
-## Tab 1
+This map shows volumes of travel between administrative areas, where volumes above baseline are coloured in Red and volumes below baseline are coloured in Blue. The width of the arrows is broadly representative of volumes. 
 
-{{< lipsum 1 >}}
-
-{{< placeholder 400 200 format=svg >}}
-
-
-
-## Tab 2
-
-{{< lipsum 1 >}}
-
+In the early days of the flooding events, we observe high levels of migration out of the Mirpur Khas area with the numbers of people entering this area below baseline.
 
 :::
 
@@ -111,7 +89,7 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 ::: {.card title="Mirpur Khas"}
 ![](./inputs/photo1.jpeg)
 
-Example of roadside displacement near Mipur Khas, Sindh.
+Example of roadside displacement near Mipur Khas, Sindh. Note the movement of livestock with the displaced population.
 :::
 
 
