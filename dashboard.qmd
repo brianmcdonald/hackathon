@@ -24,6 +24,8 @@ format:
 
 ![](./inputs/deprivation.jpeg)
 
+*Fig 1.* A bivariate map, showing the percentage change in the number of inflows and the relative deprivation index, at the tile level.
+
 :::
 
 
@@ -63,6 +65,10 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 #### Row {.tabset .flow}
 
 ::: {.card title="Deprivation"}
+
+The data for flows is based on data from the 22nd of August 2022, the day when the largest number of movements was registered throughout the whole period. On the left, we see a map of the whole of Pakistan. This map illustrates where the data is located. It gives us a good idea of the coverage of our data. We did not include flows with less than 10 people. 
+
+On the right we see a zoomed in region of Pakistan: the North East, which is the area with the highest concentration of large cities. It is also the region with most data. We see that in urban cores there is a lot of inflows but low deprivation. However, in the rings surrounding these urban cores, we see problematic areas: high inflows and high deprivation. These areas are were resources would be most needed. 
 
 In many of the more rural areas on the outskirts of cities in the North of Pakistan, we observe high levels of deprivation combined with high levels of displacement - providing an initial indicator of areas in highest severity need
 
