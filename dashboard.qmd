@@ -18,18 +18,28 @@ format:
 
 ### Column {width="65%"}
 
-#### Row 
+#### Row {.tabset}
 
-::: {.card title="Movements"}
-<!-- {{< placeholder 1000 1000 format=svg >}} -->
-<iframe src="./inputs/flowmap.html" width="100%" height="800px%">
+::: {.card .flow title="Baseline"}
+
+#### Baseline
+
+<iframe src="./inputs/flowmap_baseline.html" width="100%" height="100%">
 
 </iframe>
+
 :::
 
-<!-- <iframe src="./outputs/map.html" width="100%" height="100%">
+::: {.card .flow title="Crisis"}
 
-</iframe> -->
+
+#### Crisis
+
+<iframe src="./inputs/flowmap_crisis.html" width="100%" height="100%">
+
+</iframe>
+
+:::
 
 
 ### Column {width="35%"}
@@ -40,7 +50,6 @@ format:
 **Published:** 2 July 2024 </br>
 **Last Updated:** 12:00 UTC, 9 July 2024
 
-{{< lipsum 5 >}}
 :::
 
 ::: {.card .flow title="Methodology"}
@@ -144,4 +153,12 @@ This analysis is provided courtesy of Microsoft AI for Good Lab, using imagery f
 ## Limitations
 This analysis uses optical satellite imagery and likely underestimates building damage as not all building damage can be detected from this visual perspective.
 Cloud cover prevented analysis of 31% of the buildings.
+:::
+
+#### Row {.tabset .flow}
+
+::: {.card title="Tab 1"}
+
+![](./inputs/trends.png)
+
 :::
