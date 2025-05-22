@@ -27,8 +27,6 @@ format:
 </iframe>
 :::
 
-
-
 <!-- <iframe src="./outputs/map.html" width="100%" height="100%">
 
 </iframe> -->
@@ -46,22 +44,18 @@ format:
 :::
 
 ::: {.card .flow title="Methodology"}
+# Coverage of Meta data
+![](./inputs/represented.jpeg)
+
 ## Sources:
-The displacement analysis is done using Facebook Popluation Estimates data from Meta's Data for Good initiative. Analysis was conducted by IOM.
-The building damage asssment data is from Microsoft, using imagery from Planet.
+...
 
 ## Limitations
-Limitations of the displacement analysis include;
-
--   Levels and variance in Facebook usage by the affected populations.
--   Network infrastrctural issues can also impact the findings.
+...
 
 ## Contact
-Hurricane Beryl Emergency Coordinator - Jan-Willem WEGDAM [jwegdam@iom.int](mailto:jwegdam@iom.int)
+...
 
-Regional Migration Data Coordinator - Raul Andres SOTO [rsoto@iom.int](mailto:rsoto@iom.int)
-
-For details on this dashboard, contact Brian Mc Donald [bmcdonald\@iom.int](mailto:bmcdonald@iom.int?subject=Beryl)
 :::
 
 #### Row {.tabset .flow}
