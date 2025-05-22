@@ -69,7 +69,6 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 
 {{< lipsum 1 >}}
 
-![image](./assets/image.svg) </br>The population levels for  St. George's has  returned to the pre-crisis baseline as of 4th July.
 
 
 ## Title 2
@@ -91,15 +90,17 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 
 ## Tab 1
 
+{{< lipsum 1 >}}
+
 {{< placeholder 400 200 format=svg >}}
 
-All areas of Savanna-la-mer continue to see poulation estimates far below the pre-crisis baseline.
+
 
 ## Tab 2
 
-{{< placeholder 400 200 format=svg >}}
+{{< lipsum 1 >}}
 
-Urban areas of Old Harbour show population estimates returning to close to pre-crisis levels, while the outskirts of the town, especially to the west, are still seeing a signficant decrease.
+
 :::
 
 # Deep Dive
