@@ -20,33 +20,19 @@ format:
 
 #### Row {.tabset}
 
-::: {.card .flow title="Baseline"}
+::: {.card .flow title="Deprivation"}
 
-#### Baseline
-
-<iframe src="./inputs/flowmap_baseline.html" width="100%" height="100%">
-
-</iframe>
+{{< placeholder 1000 1000 format=svg >}}
 
 :::
 
-::: {.card .flow title="Crisis"}
+
+::: {.card .flow title="Movement"}
 
 
-#### Crisis
-
-<iframe src="./inputs/flowmap_crisis.html" width="100%" height="100%">
-
-</iframe>
-
-:::
-
-::: {.card .flow title="Difference"}
 
 
-#### Difference
-
-<iframe src="./inputs/flowmap_dif.html" width="100%" height="100%">
+<iframe src="./inputs/flowmap.html" width="100%" height="100%">
 
 </iframe>
 
@@ -57,11 +43,6 @@ format:
 
 #### Row {.tabset .flow height="30%"}
 
-::: {.card .flow title="Overview"}
-**Published:** 2 July 2024 </br>
-**Last Updated:** 12:00 UTC, 9 July 2024
-
-:::
 
 ::: {.card .flow title="Methodology"}
 # Coverage of Meta and DTM assessments
@@ -83,7 +64,7 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 
 #### Row {.tabset .flow}
 
-::: {.card title="Tab 1"}
+::: {.card title="Deprivation"}
 ## Title 1
 
 {{< lipsum 1 >}}
@@ -106,7 +87,7 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 :::
 
 
-::: {.card title="Tab 2"}
+::: {.card title="Movement between places"}
 
 ## Tab 1
 
@@ -121,7 +102,7 @@ All areas of Savanna-la-mer continue to see poulation estimates far below the pr
 Urban areas of Old Harbour show population estimates returning to close to pre-crisis levels, while the outskirts of the town, especially to the west, are still seeing a signficant decrease.
 :::
 
-# Vulnerability
+# Deep Dive
 
 ### Column {width="65%"}
 
@@ -148,29 +129,16 @@ Urban areas of Old Harbour show population estimates returning to close to pre-c
 
 ::: {.card title="Tab 2"}
 
-## Source
-This analysis is provided courtesy of Microsoft AI for Good Lab, using imagery from Planet SkySat from 2nd July 2024.
+...
 
-## Attribute details
 
--   damage_pct_0m – the fraction of the building footprint's area that is classified as damaged by the model
-
--   damage_pct_10m – total damaged area within a 10m buffer of the building footprint (including the footprint itself) / building footprint's area (this can be \>1.0 but we clip to 1.0)
-
--   damage_pct_20m – same as above but with a 20m buffer
-
--   damage – 1 if damage_pct_0m \> 0 else 0
-
--   unknown_pct– covered by clouds
-
-## Limitations
-This analysis uses optical satellite imagery and likely underestimates building damage as not all building damage can be detected from this visual perspective.
-Cloud cover prevented analysis of 31% of the buildings.
 :::
 
 #### Row {.tabset .flow}
 
-::: {.card title="Tab 1"}
+::: {.card title="Population change"}
+
+## Mirpur Khas
 
 ![](./inputs/trends.png)
 
