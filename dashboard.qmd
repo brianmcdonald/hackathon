@@ -41,6 +41,17 @@ format:
 
 :::
 
+::: {.card .flow title="Difference"}
+
+
+#### Difference
+
+<iframe src="./inputs/flowmap_dif.html" width="100%" height="100%">
+
+</iframe>
+
+:::
+
 
 ### Column {width="35%"}
 
@@ -53,17 +64,19 @@ format:
 :::
 
 ::: {.card .flow title="Methodology"}
-# Coverage of Meta data
+# Coverage of Meta and DTM assessments
 
 ![](./inputs/represented.png)
 
-## Sources:
-...
+## Key Handling Instructions 
 
-## Limitations
-...
+This product covers the analysis period xxxxx to xxxxxx 2022. There may be changes in information when new data is released. 
 
-## Contact
+- This product utilises data from Facebook population and movement data. 
+
+- This data is representative of a subset of active facebook accounts in the area and is not representative of the entire population. Please see Figure 1 below and speak to your analyst for more information. 
+
+- This product utilises data from IOM. This data has been rapidly collected via surveys and may not be representative of the entire population. Please see Figure 1 below and speak to your analyst for more information.
 ...
 
 :::
