@@ -104,7 +104,7 @@ This product covers the analysis period xxxxx to xxxxxx 2022. There may be chang
 
 # Focus Area
 
-### Column {width="65%"}
+### Column {width="60%"}
 
 #### Row 
 
@@ -115,7 +115,7 @@ Example of roadside displacement near Mipur Khas, Sindh.
 :::
 
 
-### Column {width="35%"}
+### Column {width="40%"}
 
 #### Row {.tabset}
 
@@ -130,7 +130,7 @@ Example of roadside displacement near Mipur Khas, Sindh.
 
 :::
 
-::: {.card title="Tab 2"}
+::: {.card title="Other"}
 
 ...
 
